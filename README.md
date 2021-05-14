@@ -1,16 +1,20 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br />
+Hi, I'm Yaroslav, a Front-End developer. <br>
+Active use CSS preprocessors and Bootstrap, as well as BEM and Airbnb JavaScript Style Guide. <br>
+You can see my works [here](https://github.com/yaroslav-klimuk/portfolio/tree/gh-pages). <br>
+Ready to cooperate.
 
-Hi, I'm Yaroslav, a frontend developer.
+<img align="right" alt="GIF" src="https://github.com/yaroslav-klimuk/yaroslav-klimuk/blob/main/assets/gif.gif" width="500" height="320" />
 
-📄 My [resume](https://yaroslav-klimuk.github.io/portfolio/cv/)
+<h3 align="left">Contact with me:</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/yaroslavklimuk" target="blank"><img align="center" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" alt="@yaroslavklimuk" height="30" width="30" /></a>
-<a href="mailto:yaroslavklimuk21@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="yaroslavklimuk21@gmail.com" height="30" width="30" /></a>
-</p>
+- 📫 My email: <a href="mailto:yaroslavklimuk21@gmail.com" target="blank">yaroslavklimuk21@gmail.com</a>
+- ✉️ My [telegram](https://t.me/yaroslavklimuk)
+- 📄 [Resume](https://yaroslav-klimuk.github.io/portfolio/cv/)
+
+<br/>
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" alt="javascript" width="30" height="30"/> </a>
