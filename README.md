@@ -1,7 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, I'm Yaroslav, a Front-End developer. <br>
-Active use CSS preprocessors and Bootstrap, as well as BEM and Airbnb JavaScript Style Guide. <br>
 You can see my works [here](https://github.com/yaroslav-klimuk/portfolio/tree/gh-pages). <br>
 Ready to cooperate.
 
