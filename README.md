@@ -21,7 +21,7 @@ const info = {
   email: 'yaroslavklimuk21@gmail.com',
   telegram: '@yaroslavklimuk',
   skills: {
-    code: ['JavaScript', 'HTML', 'CSS', 'Sass/Scss', 'Bootstrap'],
+    code: ['React', 'Redux', 'JavaScript', 'HTML', 'CSS', 'Sass/Scss', 'Bootstrap'],
     tools: ['Git', 'Github', 'Webpack'],
   },
 };
