@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, I'm Yaroslav, a Frontend developer. <br>
-You can see my resume [here](https://clck.ru/XJESW). <br>
+You can see my resume [here](https://yaroslav-klimuk.github.io/portfolio/cv/). <br>
 Ready to cooperate.
 
 ```javascript
